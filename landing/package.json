@@ -1,0 +1,27 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luitame/kanban.git"
+  },
+  "keywords": [
+    "landing",
+    "page"
+  ],
+  "author": "Luítame de Oliveira <luitamy@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luitame/kanban/issues"
+  },
+  "homepage": "https://github.com/luitame/kanban#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
